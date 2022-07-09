@@ -1,0 +1,39 @@
+{
+   "customer":{
+      "firstName":"Paco",
+      "lastName":"Roncero",
+      "email":"paco@gmail.com"
+   },
+   "shippingAddress":{
+      "street":"Calle Torre Eiffel",
+      "city":"Paris",
+      "province":"Paris",
+      "country":"Francia",
+      "zipCode":"11009"
+   },
+   "billingAddress":{
+      "street":"Calle Torre Eiffel",
+      "city":"Paris",
+      "state":"Paris",
+      "country":"Francia",
+      "zipCode":"11009"
+   },
+   "order":{
+      "totalPrice":36.98,
+      "totalQuantity":2
+   },
+   "orderItems":[
+      {
+         "imageUrl":"assets/images/products/coffeemugs/coffeemug.png",
+         "quantity":1,
+         "unitPrice":18.99,
+         "productId":26
+      },
+      {
+         "imageUrl":"assets/images/products/laptops/laptop.png",
+         "quantity":1,
+         "unitPrice":17.99,
+         "productId":51
+      }
+   ]
+}

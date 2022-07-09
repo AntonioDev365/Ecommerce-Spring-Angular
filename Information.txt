@@ -1,0 +1,12 @@
+Angular			REST API  		Spring Boot					Database
+front-end 		------->   		back-end		<-->		Full CRUD
+
+-Show a list of products
+-Filter products list
+-Add products to shopping cart(CRUD)
+-Shopping cart check out
+-User login/logout security
+-Track previous orders for logged in users
+-Vip access to the application
+-Secure communication with https
+-Credit car payment processing with stripe
